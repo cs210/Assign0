@@ -1,6 +1,6 @@
 # Philip Baillargeon (pabaill)
 
-Hey all! I'm Phil, a CS coterm from Detroit, MI, studying HCI and AI (with some STS and ethics/philosophy in there too). Thanks for stopping by! Here's a bit about me:
+Hey all! I'm Philip (usually go by Phil), a CS coterm from Detroit, MI, studying HCI and AI (with some STS and ethics/philosophy in there too). Thanks for stopping by! Here's a bit about me:
 
 ## Front End and Design Experience
 
