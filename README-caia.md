@@ -1,6 +1,10 @@
 
-## Caia Costello skills
+## Caia Costello 
 Hi I am Caia Costello a senior CS major on the AI track. 
+
+LinkedIn: (https://www.linkedin.com/in/caia-costello-5b4064216/)
+
+![Caia](https://doz1futtg6626.cloudfront.net/images/2023/11/28/Caia_Costello.jpg?width=200)
 
 **Technical skills**
 - PyTorch, PyTorch geometric, PyTorch geometric temporal
