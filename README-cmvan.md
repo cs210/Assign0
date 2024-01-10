@@ -1,6 +1,6 @@
 # Hi, I'm Caroline ʕ·͡ˑ·ཻʔ
 
-<img style="float: left; margin-right: 1em;" width="110" height="110" src="caroline-headshot.jpg" >
+<img align="left" width="120" height="120" src="caroline-headshot.jpg" >
 
 I'm a senior + coterm from Fredericksburg, VA studying CS (CompBio, AI) and French. I have a broad range of technical experiences spanning scaled data processing and analysis, data security, and web / mobile development, as well as expertise in financial management and public engagement. I'm excited about exploring novel applications of computer science in nontechnical fields, particularly in promoting sustainability and free artistic and cultural expression. Check out my [Github](https://github.com/cmvan) and feel free to reach out via [LinkedIn](https://www.linkedin.com/in/caroline-van/) or email at cmvan@stanford.edu
 
