@@ -1,0 +1,3 @@
+# About Me
+
+My name is Travis Senf, and I am on the Biocomputation track, and a prospective masters student in AI.  I have the most experience with database mining/data science, with some experience in AI and PyTorch. Some projects that I have worked on in the past are a 6D pose estimation model for manufacturing environments, white blood cell image classifiers, a photosharing web application, and various other linear classifiers. I hope I will bring a strong data-driven background to any project that I work on!
