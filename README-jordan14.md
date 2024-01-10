@@ -22,6 +22,9 @@ used unsupervised learning techinques to try and develop a new way to look at th
 ## Professional Experience
 I interned last summer at a startup and worked there as a full stack software engineer. 
 I have experience in react native, swift, and also working with google
-cloud functions. 
+cloud functions, performing both front end and backend work. 
+
+## Contact Me
+jordan14@stanford.edu
 
                                                               
