@@ -1,2 +1,10 @@
-technical skills: python, c/c++, swift 
-past experiences: research assistant at Stanford HCI group, SWE intern at Apple
+# Hello! I'm Yubin :)
+
+## Experience
+### Apple
+Software Engineer Intern -- Swift/SwiftUI
+
+### Stanford HCI Group 
+Research Assistant -- React, Python 
+
+
