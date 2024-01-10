@@ -1,3 +1,5 @@
+# Hello, I'm Trishia 👋
+
 <p align="center">
     <img src="./assets/tchemaly-profile-photo.png">
     <br/>
@@ -7,7 +9,6 @@
     <br />
     <a href="https://tchemaly.github.io/">website</a>
 </p>
-# Hello, I'm Trishia 👋
 
 ## About Me
 
