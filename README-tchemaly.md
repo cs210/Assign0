@@ -1,4 +1,4 @@
-# Hello
+# Hello, I'm Trishia 👋
 
 ## About Me
 
