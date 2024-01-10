@@ -1,3 +1,9 @@
+## About Ethan!
+I am currently a senior studying CS (AI Track). I spend most of my time either training in the pool or cooped up in my room catching up on work. I mainly code in Python which I recently used to create a League of Legends champion detection model.
+
+
+<img src = "/LOL_IMG.png">
+
 
 ## Introduction
 In the early stages of your project, you will primarily be using your team's private GitHub repository for knowledge sharing and project management. However, git is fundamentally for software revision control. As your project progresses into the build phase, you should use git and GitHub for this purpose.
