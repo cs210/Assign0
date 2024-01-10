@@ -1,7 +1,7 @@
 # Hello, I'm Trishia 👋
 
 <p align="center">
-    <img src="./assets/tchemaly-profile-photo.png">
+    <img src="./assets/1652597208389.jpeg">
     <br/>
     <b>Trishia El Chemaly</b>
     <br />
