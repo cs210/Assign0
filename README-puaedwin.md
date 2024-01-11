@@ -7,7 +7,7 @@ P.S. Feel free to add me on LinkedIn ([https://www.linkedin.com/in/edwin-pua/](h
 
 1. **Designed an AI to play the video game "Downwell" by itself and beat the first level**
 
-![Downwell Selfplay](https://i.ibb.co/5Rcd3F0/image19.gif)
+![Downwell Selfplay](https://i.ibb.co/g6Ncjvf/image19-ezgif-com-resize.gif)
 
 - Demo: https://youtu.be/VjBtvJXVRnM
 - Report: [http://cs230.stanford.edu/projects_fall_2022/reports/111.pdf](http://cs230.stanford.edu/projects_fall_2022/reports/111.pdf)
