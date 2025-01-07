@@ -1,34 +1,79 @@
+Hello, I'm Esaw Adhana
+----------------------
 
-## Introduction
-In the early stages of your project, you will primarily be using your team's private GitHub repository for knowledge sharing and project management. However, git is fundamentally for software revision control. As your project progresses into the build phase, you should use git and GitHub for this purpose.
+About Me
+--------
 
-git and GitHub are industry standards in software development. It's important to develop proficiency with git as it is a critical tool in the software development community. This assignment aims to help you overcome the learning curve with git.
+I'm originally from Lynnwood, Washington (about 20 miles north of Seattle), and some of my interests include weight lifting, bouldering, surfing, and poker.
 
-## Deliverables
 
-1. **Create a GitHub Account**
-   - If you did not include a GitHub handle in your CS210 Application, create a GitHub account and send your GitHub handle to the TAs.
+Education
+---------
 
-2. **Setup**
-   - Follow the [setup page](https://docs.github.com/en/get-started/quickstart/set-up-git) and install GitHub command line tools. 
-   - If you’re interested in using GitHub in VScode, check out this [VScode extension](https://vscode.github.com/).
+I'm a second year studying Computer Science at Stanford, with a potential track in Human-Computer Interaction (HCI).
 
-3. **Git Clone**
-   - Clone the project repository: [https://github.com/cs210/Assign0](https://github.com/cs210/Assign0).
+Technical Skills
+----------------
 
-4. **Create a Branch**
-   - Create a branch using the naming convention `<your name>-readme`.
+-   Programming Languages: Java, Python, GoLang, C, C++, HTML, CSS, JavaScript, Assembly
+-   Web Technologies: React
+-   Tools & Frameworks: GitHub, Git, Phabricator, Arcanist
+-   Other: Excel, Google Sheets
 
-5. **Create a README File**
-   - Create a readme file named `README-<your SUNet ID>.md`.
-   - Use [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) to outline your technical skills, previous projects, or any past experiences.
-   - Consider this README as an introduction to your potential teammates! Feel free to include images, links, or additional media.
+Projects
+--------
 
-6. **Create a Pull Request**
-   - Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and add one of the TAs as a reviewer.
+PropaGONE (Apr. 2024 - June 2024)
+---------------------------------
 
-7. **Class Resources**
-   - TA IDs and other class resources can be found at [https://github.com/cs210/Home](https://github.com/cs210/Home).
-   - Note: You must be a member of the GitHub CS210 organization and logged into GitHub with the ID you provided to access the Home repository.
+-   Developed a browser extension to identify and highlight propaganda and misinformation in news articles
+-   Utilized Python, React, JavaScript, and Claude-3 Opus API
+-   Co-authored research paper and delivered presentation for Stanford's CS 197 class
 
-**Important Note**: This assignment must be completed to be considered for acceptance into the class.
+Bare-metal Console (Jan. 2024 - Mar. 2024)
+------------------------------------------
+
+-   Programmed a command-executing console from scratch using C and Assembly
+-   Implemented custom I/O handling for displaying results on screen
+-   Launched on Mango Pi platform with 14 self-written modules
+
+Poker Simulator (June 2023 - Aug. 2023)
+---------------------------------------
+
+-   Developed a Java program to simulate No-Limits Texas Hold'Em games
+-   Implemented Monte Carlo simulations to calculate hand equity
+
+Experience
+----------
+
+UberSTAR Intern: Matching Intent Eng. Team
+------------------------------------------
+
+Uber, San Francisco, CA (June 2024 - Sept. 2024)
+
+-   Implemented over 7% savings for riders through cross-selling of UberX to Uber Wait & Save
+-   Launched new features within Uber's Go Monorepo
+-   Overcame challenges in real-time testing and managing dependencies across multiple teams
+
+Barista
+-------
+
+Starbucks, Lynnwood, CA (June 2021 - Mar. 2023)
+
+-   Handled hand-crafted drinks and pastry goods for hundreds of customers daily
+-   Multitasked up to 3 positions while catering to an on-the-fly business strategy
+
+Organizations
+-------------
+
+Black in Computer Science: Community Member (Sept. 2023 - Present)
+
+-   Advocated for Black representation in the tech industry
+-   Part of a community of approximately 50 undergraduate and graduate students
+
+Connect with Me
+---------------
+
+-   LinkedIn: [linkedin.com/in/EsawAdhana](https://linkedin.com/in/EsawAdhana)
+-   GitHub: [github.com/EsawAdhana](https://github.com/EsawAdhana)
+-   Email: <adhanaesaw@gmail.com>
