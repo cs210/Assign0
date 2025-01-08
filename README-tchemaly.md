@@ -1,8 +1,12 @@
-## Hi!👋🏻 I'm Trishia El Chemaly
+## Hi!👋😀 I'm Trishia El Chemaly
 
-I am a Bioengineering PhD Candidate, highly motivated by impact. My research focus is in AR for surgery and HCI. I enjoy organizing and participating in hackathons. Previously, I was the president of [Stanford XR](https://www.stanfordxr.org/about) where I led several initiatives such as founding [Immerse The Bay](https://immersethebay.stanfordxr.org/), Stanford's leading XR hackathon. 
+I'm an engineer, XR developer, and researcher, currently building XR technology that redefines surgery. My skill set spans from research techniques to the development of software and hardware in XR, computer vision, and HCI.  As an interdisciplinary PhD candidate at Stanford, I am fortunate to collaborate with multiple groups including the Surgical Simulation lab, the Incubator for Medical Mixed and Extended Reality at Stanford, the Visualization Lab, the Body Magnetic Resonance Group, and the Salisbury Robotics Lab. 
+
+Previously, I was the president of [Stanford XR](https://www.stanfordxr.org/about), Stanford University’s student organization for extended reality. 
 
 ![DSC_0480 - Copy](https://github.com/user-attachments/assets/db255a87-0dc3-4daa-9f39-ce20efe6c178)
+
+---
 
 ## 👓Past Experiences
 **Student Researcher @ Google**
@@ -30,7 +34,12 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 - CS 224N (NLP with Deep Learning): Context-Aware Gesture Interpretation in AR/VR
 - EE 267 (Virtual Reality): AR in Head and Neck Surgery
 - Design 374 (Creativity in Research): ResQVision - AR Aid for Emergency Responders
-- Design 284 (Designing for XR): Streamlining 3D Data Processing for ML 
+- Design 284 (Designing for XR): Streamlining 3D Data Processing for ML
+
+**StanfordXR**
+where I led several initiatives such as founding [Immerse The Bay](https://immersethebay.stanfordxr.org/), Stanford's leading XR hackathon. 
+
+---
 
 ## 📚Skills
 **AR/VR Development** 
@@ -43,5 +52,8 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 - Robotics programming: C/C++, RobotC, ROS
 - Signal and Image Processing, Computational Modeling: Python, MATLAB
 
-## 📄Portfolio
-Learn more about me [here](https://tchemaly.github.io/)!
+---
+
+## 🤝Connect with me
+[LinkedIn](https://www.linkedin.com/in/trishia-chemaly/)
+[Portfolio](https://tchemaly.github.io/)!
