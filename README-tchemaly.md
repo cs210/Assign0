@@ -2,6 +2,8 @@
 
 I am a Bioengineering PhD Candidate, highly motivated by impact. My research focus is in AR for surgery and HCI. I love organizing and participating in hackathons. Previously, I was the president of [Stanford XR](https://www.stanfordxr.org/about) where I led several initiatives such as founding [Immerse The Bay](https://immersethebay.stanfordxr.org/), Stanford's leading XR hackathon. 
 
+![DSC_0480 - Copy](https://github.com/user-attachments/assets/24b49225-cdb4-4b66-9839-3cf08136425e)
+
 ## Past Experiences
 **Student Researcher @ Google**
 - Worked alongside the Google AR team that recently launched [Android XR](https://blog.google/products/android/android-xr/)
