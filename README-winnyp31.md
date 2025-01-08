@@ -40,3 +40,5 @@ after extensive user interviews.
 **EachDay** | Swift, Firebase, Git, Sketch
 - Designed, built, and published a journaling & time-tracking iOS app on AppStore. Received 100+ downloads in 2
 weeks.
+
+Click [here](http://eleanorpeng.notion.site) to see my full portfolio!
