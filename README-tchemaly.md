@@ -11,8 +11,12 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 
 **Graduate Research Assistant @ IMMERS (Incubator for Medical Mixed and Extended Reality at Stanford)**
 
-**CS 12SI Student Lecturer @ Stanford University**
-- Co-created and co-led CS12SI: Spatial Computing Workshop, a course listed under Stanford's CS department, with fellow Stanford XR members
+**RAD206: Mixed-Reality in Medicine Teaching Assistant @ Stanford University**
+- Created and graded AR assignments in Unity and C#
+- Mentored groups of students working on class projects with Microsoft HoloLens 2
+
+**CS 12SI: Spatial Computing Workshop Student Lecturer @ Stanford University**
+- Co-created and co-led CS12SI, a course listed under Stanford's CS department, with fellow Stanford XR members
 - Taught Stanford students skills to create AR applications for Apple Vision Pro, both device and simulator
   
 **Project Experiences from Stanford Courses**
@@ -36,7 +40,7 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 **Robotics Programming**
 - C/C++, RobotC, ROS, Mathematica
 
-**Signal and Image processing, Computational Modeling**
+**Signal and Image Processing, Computational Modeling**
 - Python, MATLAB
 
 ## 📄Portfolio
