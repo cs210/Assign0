@@ -18,19 +18,19 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 **Project Experiences from Stanford CS Courses**
 
 ## Skills
-**AR/VR development** 
+**AR/VR Development** 
 - 5+ years in Unity and C#, Swift developing for Apple Vision Pro, Meta Quest 3 and Quest Pro, Microsoft HoloLens, Magic Leap
 
-**Computer vision and deep learning**
+**Computer Vision and Deep Learning**
 - Python, MATLAB, Unity and C#
 
-**Object-oriented programming**
+**Object-oriented Programming**
 - C#, Python, JavaScript
 
-**Robotics programming**
+**Robotics Programming**
 - C/C++, RobotC, ROS, Mathematica
 
-**Medical signal and image processing, computational modeling**
+**Signal and Image processing, Computational Modeling**
 - Python, MATLAB
 
 Learn more about me [here](https://tchemaly.github.io/)!
