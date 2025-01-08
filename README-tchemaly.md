@@ -10,9 +10,9 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 - Led the research and user studies on visual comfort and motion sickness for Moohan, Samsung's first headset powered by Android XR
 
 **Graduate Research Assistant @ IMMERS (Incubator for Medical Mixed and Extended Reality at Stanford)**
+- Developed AR solutions for medical needs identified while working with clinicians
 - Implemented stereoscopic calibration for AR visualization in microscopic surgery
 - Trained and fine-tuned computer vision models for tracking in surgical AR
-- Developed AR solutions for medical needs identified while working with clinicians 
 - Co-authored a CHI paper on interactive shape sonification for tumor localization in breast cancer surgery
 - Mentored undergraduate students developing applications for diverse AR devices
 
