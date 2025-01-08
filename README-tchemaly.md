@@ -15,7 +15,13 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 - Co-created and co-led CS12SI: Spatial Computing Workshop, a course listed under Stanford's CS department, with fellow Stanford XR members
 - Taught Stanford students skills to create AR applications for Apple Vision Pro, both device and simulator
   
-**Project Experiences from Stanford CS Courses**
+**Project Experiences from Stanford Courses**
+- CS 231N (CNNs for Visual Recignition): Brand Product Identification with Deep Learning
+- CS 231A (Computer Vision: From 3D Reconstruction to Recognition): Automatic Tracking for Anatomical Landmarks in Surgery
+- EE 267 (Virtual Reality): AR in Head and Neck Surgery
+- Design 374 (Creativity in Research): ResQVision - AR Aid for Emergency Responders
+- CS 224N (NLP with Deep Learning): Context-Aware Gesture Interpretation in AR/VR
+- Design 284 (Designing for XR): Streamlining 3D Data Processing for ML 
 
 ## Skills
 **AR/VR Development** 
