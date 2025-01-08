@@ -11,7 +11,8 @@ Previously, I was the president of [Stanford XR](https://www.stanfordxr.org/abou
 ## 👓Past Experiences
 **Student Researcher @ Google**
 - Worked alongside the Google AR team that recently launched [Android XR](https://blog.google/products/android/android-xr/)
-- Led the research and user studies on visual comfort and motion sickness for Moohan, Samsung's first headset powered by Android XR
+- Led the research on visual comfort and motion sickness for Moohan, Samsung's first headset powered by Android XR
+- Designed and established technical and user benchmarks for comfort in AR passthrough
 
 **Graduate Research Assistant @ IMMERS (Incubator for Medical Mixed and Extended Reality at Stanford)**
 - Developed AR solutions for medical needs identified while working with clinicians
