@@ -17,7 +17,7 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
   
 **Project Experiences from Stanford Courses**
 - CS 231N (CNNs for Visual Recignition): Brand Product Identification with Deep Learning
-- CS 231A (Computer Vision: From 3D Reconstruction to Recognition): Automatic Tracking for Anatomical Landmarks in Surgery
+- CS 231A (Computer Vision: From 3D Reconstruction to Recognition): Automatic Tracking for Anatomical Landmarks 
 - EE 267 (Virtual Reality): AR in Head and Neck Surgery
 - Design 374 (Creativity in Research): ResQVision - AR Aid for Emergency Responders
 - CS 224N (NLP with Deep Learning): Context-Aware Gesture Interpretation in AR/VR
