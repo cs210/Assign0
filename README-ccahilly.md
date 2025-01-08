@@ -7,7 +7,7 @@ I'm originally from CT, love running, am an enthusiastic beginner snowboarder, a
 
 ## Some past projects
 ### NL-Driven Generation of Professional-Grade Songs
-* Current challenge: there’s not much existing data of songs with human-written descriptions (e.g., “The pop song features a soft female vocal…”)
+* Challenge: There’s not much existing data of songs with human-written descriptions (e.g., “The pop song features a soft female vocal…”)
 * So, I created a set of models that generate machine-labeled descriptions given song clips (ultimately to generate synthetic data for the music generation task)
 * Next steps still in progress
 ### "Mug Makeover": Ray-Traced Rendering Generation
