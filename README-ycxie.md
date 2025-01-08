@@ -2,18 +2,21 @@
 Hi everyone! My name is Sherry Xie, and I am a senior studying CS on the AI track. I am particularly interested in using my technical skills to solve social problems - and I look forward to getting to know everyone in class!
 
 ## Skills
-| Skill |
-|---------------|
-| Python        |
-| Java          |
-| C++           |
-| C             |
-| Swift         |
-| Swift UI      |
-| React         |
-| Javascript    |
-| HTML          |
-| CSS           |
+
+- **Languages**:  
+  - Object-Oriented (Python, C++, Java)  
+  - Functional (C)  
+  - Frontend Development (Swift, SwiftUI, HTML, CSS, JavaScript, React Native)  
+  - Data (Spark, SQL)  
+  - Assembly (x86 Assembly, MIPS Assembly)
+
+- **Technologies**:  
+  - Git (GitHub)  
+  - LaTeX  
+  - GDB  
+  - Valgrind  
+  - Pandas  
+  - NumPy
 
 ## Experience
 
