@@ -32,10 +32,6 @@ I'm a coterm at Stanford University! 🌲
 - **Technologies Used:** Supabase database for backend and React Native for frontend.  
 - **Features:** Implemented real-time messaging functionality and user authentication.  
 
-### Binary Sunset Scene from Star Wars in Blender (Fall 2023)  
-- Recreated the iconic *Star Wars* scene using Blender’s Cycles engine in a team of two.  
-- Enhanced realism with custom geometry and procedural textures.  
-- **Recognition:** Featured as one of seven top projects in the class showcase page.  
 
 ### Binary Sunset Scene from Star Wars in Blender (Fall 2023)  
 - Recreated the iconic *Star Wars* scene using Blender’s Cycles engine in a team of two.  
