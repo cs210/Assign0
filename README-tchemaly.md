@@ -12,8 +12,8 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 **Graduate Research Assistant @ IMMERS (Incubator for Medical Mixed and Extended Reality at Stanford)**
 
 **CS 12SI Student Lecturer @ Stanford University**
-- Co-created and co-led CS12SI: Spatial Computing Workshop listed under Stanford's CS department with fellow Stanford XR members
-- Taught Stanford students skills to create AR applications for Apple Vision Pro device and simulator
+- Co-created and co-led CS12SI: Spatial Computing Workshop, a course listed under Stanford's CS department, with fellow Stanford XR members
+- Taught Stanford students skills to create AR applications for Apple Vision Pro, both device and simulator
   
 **Project Experiences from Stanford CS Courses**
 
