@@ -2,6 +2,7 @@
 <p align="center">
     <img src="RRSUProfilePic.jpg" alt="My Profile Picture" width="500"/>
 </p>
+
 ## About Me
 
 My name is Renn Su. I'm an undergrad studying Computer Science on the Human-Computer Interaction (HCI) track.
