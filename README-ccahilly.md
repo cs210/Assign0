@@ -11,7 +11,7 @@ I'm originally from CT, love running, am an enthusiastic beginner snowboarder, a
 * So, I created a set of models that generate machine-labeled descriptions given song clips (ultimately to generate synthetic data for the music generation task)
 * Next steps still in progress
 ### "Mug Makeover": Ray-Traced Rendering Generation
-* Trained cGAN to generate life-like, ray-traced scenes—seen in state-of-the-art games like Fortnite— given low quality but quick-to-generate rasterized renders
+* Trained cGAN to generate life-like, ray-traced scenes—seen in state-of-the-art games like Fortnite—given low quality but quick-to-generate rasterized renders
 * Collab’d with NVIDIA computer vision researcher
 * 4.5x faster than regular ray tracing w/ significant quality improvement vs. rasterized images
 ### Decentralized Cryptocurrency Exchange
@@ -19,7 +19,7 @@ I'm originally from CT, love running, am an enthusiastic beginner snowboarder, a
 ### Gen AI Research @ Professor Boahen's "Brain's in Silicon" Lab
 * Researched if graph neural networks could generate natural language with less compute than transformer-based models
 
-# Other past experiences
+## Other past experiences
 * Worked at a consulting firm in Sao Paulo, Brazil last summer on a tech-related project
 * Also previously worked at a Blockchain VC in SF analyzing potential investments, supporting portfolio cos. & developing internal investment theses
 * Co-founded a 501(c)(3) that works with disadvantaged Portuguese-speaking children in Brazil & Mozambique to connect them to opportuntites
