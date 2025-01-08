@@ -6,6 +6,7 @@
 ## Projects
 ![](https://cardadfar.github.io/cs348k/assets/suit.gif)
 - [Spiderverse Shaders](https://cardadfar.github.io/cs348k/): Created NPR Shaders to emulate the style of the Spiderverse movies
+- [Amazon Lowest Cost](https://github.com/Maxton-Huff/cs131FinalProject): Takes in an image as input and use a trained ML model to identify the item type, then web-scrapes Amazon to find the lowest cost item.
 
 ## 📚 Education
 
