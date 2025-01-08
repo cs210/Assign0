@@ -1,4 +1,4 @@
-# Hi, I'm Abbie! :)
+# Hi, I'm Abbie! :slightly_smiling_face:
 
 ## About Me:
 Hi everyone! My name is Abbie Maemoto, and I am a senior studying Computer Science and Product Design. I am a passionate product leader who leverages experiences in software, design, PM, and entrepreneurship to produce technologies that transform the lives of those who need the technology the most.
