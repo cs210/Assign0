@@ -9,14 +9,6 @@
 - **Frameworks and Tools:** PyTorch, TensorFlow, React, Node.js, Docker, Git, OpenCV, Hugging Face Transformers
 - **Domains:** Machine Learning, Deep Learning, NLP, Vision, Full-Stack Development
 
-## Awards and Honors
-- **ACM/IEEE CHI 2024 Honorable Mention**
-  - 'Teach AI How to Code' project recognized for its impact in education and generative AI.
-- **ASSETS 2024 Best Paper Award**
-  - "AltCanvas: A Tile-Based Image Editor with Generative AI for Blind or Visually Impaired People."
-- **IEEE CVPR 2024 Workshop Presentation**
-  - Presented "StyleAligned: AI-Driven Generation of Tactile Graphics for Accessibility."
-
 ## Professional Experience
 
 ### Incoming AI Engineer @NVIDIA
@@ -46,8 +38,12 @@
 ## Publications
 - "AltCanvas: Enhancing Visual Accessibility through Generative AI," ACM ASSETS 2024.
 - "Integrating Multimodal Agents in Shared Spaces: Challenges and Solutions," under review for ACM CHI 2025.
-- "StyleAligned: AI-Driven Generation of Tactile Graphics for Accessibility," IEEE CVPR 2024 Workshop.
-
+- "StyleAligned: AI-Driven Generation of Tactile Graphics for Accessibility," 
+- "IRL Dittos: Embodied Multimodal Agents in Open Spaces"
+- **ACM/IEEE CHI 2024 Honorable Mention**
+  - 'Teach AI How to Code' project recognized for its impact in education and generative AI.
+- **ASSETS 2024**
+  - "AltCanvas: A Tile-Based Image Editor with Generative AI for Blind or Visually Impaired People."
 ## Hobbies
 - Cooking! : @shl_eats
 
