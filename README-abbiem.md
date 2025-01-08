@@ -14,11 +14,16 @@ Hi everyone! My name is Abbie Maemoto, and I am a senior studying Computer Scien
 - Fusion360
 
 ## Experience:
+- Product Management Intern (Microsoft, Oracle, Develop for Good, Marriage Pact)
+- Machine Learning Intern: MS&E Udell Lab (Algorithmic Fairness in Heart Failure Detection Model)
+- UI/UX Designer (Pomelo, Yohocare)
+- Former Unusual Ventures Academy Member (Dalus AI)
 
-### Product Management Intern (Microsoft, Oracle, Develop for Good, Marriage Pact)
-### Machine Learning Intern: MS&E Udell Lab
-### UI/UX Designer (Pomelo, Yohocare)
-### Former Unusual Ventures Academy Member
+## Projects:
+- [Spotify Audio Player](https://github.com/abbiemaemoto/Spotify_audio_player)
+- [turno- mobile app](https://github.com/abbiemaemoto/turno)
+- [CheckUp- mobile app](https://github.com/abbiemaemoto/CheckUp)
+- [Malaria detection ML model](https://github.com/abbiemaemoto/Malaria_Detection)
 
 
 
