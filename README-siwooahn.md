@@ -1,20 +1,22 @@
 <div align="center">
   <img src="https://gist.github.com/user-attachments/assets/a53151ad-d890-4ba7-86ba-5da98f1c9c5f" width="200" height="auto" aspect-ratio="1">
+  <h1 align="center">
+   Hi, my name is ${\textcolor{orange}{\textnormal{\textbf{\textsf{Lorenzo Ahn}}}}}$
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    <div align="center">
+      <a href="https://github.com/lorenzoahn">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github Badge"/>
+      </a>
+      <a href="https://www.linkedin.com/in/siwoo-ahn/">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
+      </a>
+      <a href="mailto:siwooahn@stanford.edu">
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
+      </a>
+    </div>
+  </h1>
 </div>
-<h1 align="center">
- Hi, my name is <span style="color: orange;">Lorenzo Ahn</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-<div align="center">
-  <a href="https://github.com/lorenzoahn">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/siwoo-ahn/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:siwooahn@stanford.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+
 
 ## About Me 
 
