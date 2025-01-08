@@ -1,56 +1,60 @@
 # Seonghee Lee
 
-## Introduction
-I am Seonghee Lee, a second-year Master's student in Computer Science at Stanford University, graduating in June 2025. My research lies at the intersection of Artificial Intelligence (AI), Human-Computer Interaction (HCI), and Accessibility. I specialize in designing innovative AI-integrated solutions that push the boundaries of interaction and accessibility technologies.
+## Education
+- **Stanford University**
+  - Master of Science in Computer Science (Focus: AI and HCI), Expected June 2025
 
-## Technical Expertise
-- **Programming Languages:** Python, Java, JavaScript, C++, HTML/CSS
-- **Frameworks and Tools:** PyTorch, TensorFlow, React, Node.js, Express, Docker, Git, OpenCV, Hugging Face Transformers
-- **Domains:**
-  - Machine Learning and Deep Learning
-  - Vision and Natural Language Processing (NLP) Models
-  - Accessibility-focused HCI Prototyping
-  - Full-Stack Software Development
+## Technical Skills
+- **Programming Languages:** Python, JavaScript(React, Typescript, NodeJS), C, C#, C++, HTML/CSS
+- **Frameworks and Tools:** PyTorch, TensorFlow, React, Node.js, Docker, Git, OpenCV, Hugging Face Transformers
+- **Domains:** Machine Learning, Deep Learning, NLP, Vision, Full-Stack Development
 
-## Awards and Achievements
-- **ACM/IEEE CHI 2024 Honorable Mention:** For the project 'Teach AI How to Code,' which developed an educational platform to assist users in learning programming through generative AI models.
-- **ASSETS 2024:** Presented the award-winning paper, 'AltCanvas: A Tile-Based Image Editor with Generative AI for Blind or Visually Impaired People,' which received critical acclaim for advancing accessibility in image editing.
-- **Conference Publications:**
-  - "AltCanvas: Enhancing Visual Accessibility through Generative AI," published in ACM ASSETS 2024.
-  - "Integrating Multimodal Agents in Shared Spaces: Challenges and Solutions," under review for ACM CHI 2025.
-  - "StyleAligned: AI-Driven Generation of Tactile Graphics for Accessibility," presented at IEEE CVPR 2024 Workshop on AI for Accessibility.
+## Awards and Honors
+- **ACM/IEEE CHI 2024 Honorable Mention**
+  - 'Teach AI How to Code' project recognized for its impact in education and generative AI.
+- **ASSETS 2024 Best Paper Award**
+  - "AltCanvas: A Tile-Based Image Editor with Generative AI for Blind or Visually Impaired People."
+- **IEEE CVPR 2024 Workshop Presentation**
+  - Presented "StyleAligned: AI-Driven Generation of Tactile Graphics for Accessibility."
 
-## Research and Projects
-- **AltCanvas:**
-  - Designed and developed a novel tile-based image editor leveraging Stable Diffusion for generating accessible tactile graphics for Blind or Visually Impaired (BVI) individuals.
-  - Conducted three-stage user studies to iteratively refine the system and ensure usability.
+## Professional Experience
 
-- **IRL Ditto:**
-  - Led the integration of AI agents in open office spaces by combining computer vision, speech processing, and generative conversational models.
-  - Developed logic frameworks for proxemic interactions and real-time engagement tracking.
+### Incoming AI Engineer @NVIDIA
+### Microsoft Research | AI Research Intern | HCAIX Group
+- Led development of multimodal conversational agents situated in an open space - Published Paper
 
-- **StyleAligned:**
-  - Researched and implemented AI-based tactile pattern generation for accessibility.
-  - Developed algorithms to ensure controlled placement of tactile patterns, balancing usability and aesthetics.
+### Stanford NLP Group | AI Research Assistant
+- Fine-tuned large language models for task-specific applications.
+- Developed interactive AI prototypes focused on accessibility.
 
-## Experience
-- **Microsoft Research:**
-  - Interned in the Human-Computer AI Experiences (HCAIX) group, working on multimodal conversational agents and their applications in shared spaces.
-  - Published findings on integrating agents with human-centered design principles.
+### Cochl.AI | AI Software Engineer Intern
+- Designed and deployed audio-based AI prototypes for real-time analysis and enhancement.
 
-- **Stanford NLP and HCI Group:**
-  - AI Research Assistant under Professor Diyi Yang and Professor Hari Subramonyam focusing on fine-tuning large language models and building task-specific interactive AI agents.
+## Research Projects
+### AltCanvas
+- Designed a tile-based image editor integrating Stable Diffusion for generating accessible tactile graphics.
+- Conducted three-stage user studies to refine usability and effectiveness for Blind or Visually Impaired (BVI) users.
 
-- **Cochl.AI:**
-  - Developed cutting-edge prototypes for AI-integrated audio systems in Mercedes Benz Cars, contributing to advancements in real-time audio analysis and enhancement.
+### IRL Ditto
+- Created AI agents for open office spaces using computer vision, speech processing, and generative conversational models.
+- Implemented proxemic interaction logic for real-time engagement.
 
-## Hobbies and Interests
-- Cooking and Interior Design
+### StyleAligned
+- Controlled Image Generation (stable diffusion) and Image Evaluation (segmentation)
+- Researched AI-driven tactile pattern evaluation ensuring controlled placement for accessibility.
+- Developed algorithms balancing usability and aesthetic constraints in tactile graphics.
+## Publications
+- "AltCanvas: Enhancing Visual Accessibility through Generative AI," ACM ASSETS 2024.
+- "Integrating Multimodal Agents in Shared Spaces: Challenges and Solutions," under review for ACM CHI 2025.
+- "StyleAligned: AI-Driven Generation of Tactile Graphics for Accessibility," IEEE CVPR 2024 Workshop.
+
+## Hobbies
+- Cooking! : @shl_eats
 
 ## Links
-- [GitHub Profile](https://github.com/shljessie)
-- [Portfolio](https://shljessie.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/seonghee-lee/)
+- **GitHub:** [github.com/shljessie](https://github.com/shljessie)
+- **Portfolio:** [shljessie.github.io](https://shljessie.github.io/)
+- **LinkedIn:** [linkedin.com/in/seonghee-lee/](https://www.linkedin.com/in/seonghee-lee/)
 
 ## Contact
-- Email: shlee@cs.stanford.edu
+- **Email:** shlee@cs.stanford.edu
