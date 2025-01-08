@@ -17,18 +17,18 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 
 ## Skills
 **AR/VR development** 
-5+ years in Unity and C#, Swift developing for Apple Vision Pro, Meta Quest 3 and Quest Pro, Microsoft HoloLens, Magic Leap
+-5+ years in Unity and C#, Swift developing for Apple Vision Pro, Meta Quest 3 and Quest Pro, Microsoft HoloLens, Magic Leap
 
 **Computer vision and deep learning**
-Python, MATLAB, Unity and C#
+-Python, MATLAB, Unity and C#
 
 **Object-oriented programming**
-C#, Python, JavaScript
+-C#, Python, JavaScript
 
 **Robotics programming**
-C/C++, RobotC, ROS, Mathematica
+-C/C++, RobotC, ROS, Mathematica
 
 **Medical signal and image processing, computational modeling**
-Python, MATLAB
+-Python, MATLAB
 
 Learn more about me [here](https://tchemaly.github.io/)!
