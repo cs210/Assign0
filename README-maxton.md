@@ -4,7 +4,7 @@
 
 ---
 ## Projects
-![](https://cardadfar.github.io/cs348k/assets/rgbnegative.gif)
+![](spiderverse.png)
 - [Spiderverse Shaders](https://cardadfar.github.io/cs348k/): Created NPR Shaders to emulate the style of the Spiderverse movies
 - [Amazon Lowest Cost](https://github.com/Maxton-Huff/cs131FinalProject): Takes in an image as input and use a trained ML model to identify the item type, then web-scrapes Amazon to find the lowest cost item.
 - [ArtTCG](Art_TCG_Paper.pdf): CURIS project for the HCI department, online multiplayer card-trading game designed to help amateur artists with the art-making process while avoiding burnout through off-centering
