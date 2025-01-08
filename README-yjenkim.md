@@ -23,7 +23,7 @@ Hello! My name is Jenny Kim (she/her) and I'm a senior studying CS on the AI tra
 
 ### Collision Avoidance/Safety Algorithms
 *Space Rendezvous Lab research assistant*
-- Tested collision avoidance maneuver algorithms in a [satellite formation-flying mission] (https://slab.stanford.edu/projects/visors)
+- Tested collision avoidance maneuver algorithms in a [satellite formation-flying mission](https://slab.stanford.edu/projects/visors)
 - Tuned hyperparameters to improve the accuracy of collision detection between the two CubeSat system
 - Used MATLAB for graphical representation and C++ for running simulations
 
