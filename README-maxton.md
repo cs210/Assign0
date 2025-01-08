@@ -1,9 +1,12 @@
-# Maxton Huff
+![image](https://github.com/user-attachments/assets/aab66868-e71e-42a1-a98c-5415461ce4e7)# Maxton Huff
 
 **Phone:** 512-633-1986  
 **Email:** [maxton@stanford.edu](maxton@stanford.edu)
 
 ---
+## Projects
+!(https://cardadfar.github.io/cs348k/assets/suit.gif)
+- [Spiderverse Shaders](https://cardadfar.github.io/cs348k/): Created NPR Shaders to emulate the style of the Spiderverse movies
 
 ## 📚 Education
 
@@ -13,7 +16,7 @@
   - **Python:** Image editing, TXT/CSV data scraping  
   - **C++:** Recursion with dictionaries and hash maps  
   - **C:** File compression/extraction, heap allocation  
-  - **CSS/HTML/JavaScript:** Website building and publishing  
+  - **CSS/HTML/JavaScript:** Website building and publishing
   - **C#:** VR development  
 - Founded and preside over two official clubs, managing funding, organization, and events.
 
