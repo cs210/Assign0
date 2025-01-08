@@ -1,4 +1,4 @@
-## Hi there! 👋😄 I'm Trishia El Chemaly
+## Hi! 👋😄 I'm Trishia El Chemaly
 
 I'm an engineer, XR developer, and researcher, currently building XR technology that redefines surgery. My skill set spans from research techniques to the development of software and hardware in XR, computer vision, and HCI. As an interdisciplinary PhD candidate at Stanford, I am fortunate to collaborate with multiple groups including the Surgical Simulation lab, the Incubator for Medical Mixed and Extended Reality at Stanford, the Visualization Lab, the Body Magnetic Resonance Group, and the Salisbury Robotics Lab.
 
