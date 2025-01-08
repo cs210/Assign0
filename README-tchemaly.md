@@ -39,4 +39,5 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 **Signal and Image processing, Computational Modeling**
 - Python, MATLAB
 
+## Portfolio
 Learn more about me [here](https://tchemaly.github.io/)!
