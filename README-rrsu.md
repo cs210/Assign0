@@ -40,6 +40,8 @@ I have also worked as a **software engineer** on a startup named **Inlet** (Harv
 
 ## Fun Facts! 🎉
 
-- I'm a big fan of **strategy** and **puzzle games**! ♟️🧩
-- Outside of learning programming languages, I enjoy learning about **world languages** and **cultures** (add me on **Duolingo**? 🦉)
-- My peak typing speed is around **120 WPM** but I type a lot slower when I write or code ⌨️💻
+- 🎨 I am a **digital artist and designer**! I'm a member of the [**Stanford Storyboard Club**](https://stanfordstoryboard.weebly.com/), where my work has been included in the **2023 and 2024 anthologies**. I'm co-Art Director at [**SupplyHer**](https://cardinalservice.stanford.edu/opportunities/stanford-supplyher). On the side, I've run a **small business** where I sold my art as **stickers**!
+
+- ⚖️ I explore the intersections between **technology, law, and ethics** as an **Undergraduate Member Editor** of the [**Stanford Technology Law Review**](https://law.stanford.edu/stanford-technology-law-review-stlr/) (**STLR**).
+
+- 🌍 Outside of learning **programming languages**, I enjoy learning about **world languages and cultures**: **Mandarin**, **French**, **German**, and **Cantonese**. I minor in **German Studies**.
