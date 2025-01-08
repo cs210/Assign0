@@ -1,11 +1,10 @@
-![image](https://github.com/user-attachments/assets/aab66868-e71e-42a1-a98c-5415461ce4e7)# Maxton Huff
-
+# Maxton Huff
 **Phone:** 512-633-1986  
 **Email:** [maxton@stanford.edu](maxton@stanford.edu)
 
 ---
 ## Projects
-!(https://cardadfar.github.io/cs348k/assets/suit.gif)
+![](https://cardadfar.github.io/cs348k/assets/suit.gif)
 - [Spiderverse Shaders](https://cardadfar.github.io/cs348k/): Created NPR Shaders to emulate the style of the Spiderverse movies
 
 ## 📚 Education
