@@ -29,7 +29,7 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 
 ## 📚Skills
 **AR/VR Development** 
-- Unity Engine, visionOS, AR Foundation, RealityKit, OpenXR, Blender
+- Unity, C#, visionOS, AR Foundation, RealityKit, OpenXR, Blender
 - Apple Vision Pro, Meta Quest 3 and Quest Pro, Microsoft HoloLens, Magic Leap
 
 **CS**
