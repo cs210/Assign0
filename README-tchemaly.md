@@ -40,6 +40,7 @@ I am a Bioengineering PhD Candidate, highly motivated by impact. My research foc
 **CS**
 - Computer Vision and Deep Learning: Python, MATLAB, Unity and C#
 - Object-oriented Programming: C#, Python, JavaScript
+- Robotics programming: C/C++, RobotC, ROS
 - Signal and Image Processing, Computational Modeling: Python, MATLAB
 
 ## 📄Portfolio
