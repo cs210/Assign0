@@ -1,8 +1,9 @@
 # About me
 
-Hi! My name is Caroline. I'm a current co-term in CS (AI track). I also did my undergrad in CS (designed my own track in Blockchain Tech.) and got a minor in Modern Languages (Portuguese/Spanish). Over this time, I've developed a wide range of technical skills within CS in areas from AI, to Blockchain, to Security etc. 
+Hi! My name is Caroline. I'm a current CS co-term (AI track). I also did my undergrad in CS (designed my own track in Blockchain Tech.) and got a minor in Modern Languages (Portuguese/Spanish). Over this time, I've developed a wide range of technical skills within CS in areas from AI, to Blockchain, to Security etc. 
 
-Some fun facts about me: I'm originally from CT, love running, am an enthusiastic beginner snowboarder, and two of my favorite books are Dune and Shantaram.
+### Some fun facts about me
+I'm originally from CT, love running, am an enthusiastic beginner snowboarder, and two of my favorite books are Dune and Shantaram.
 
 ## Some past projects
 ### NL-Driven Generation of Professional-Grade Songs
