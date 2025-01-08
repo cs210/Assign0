@@ -23,11 +23,11 @@
 - Designed and deployed audio-based AI prototypes for real-time analysis and enhancement.
 
 ## Research Projects
-### AltCanvas
+### AltCanvas - Web Based Image Editor for Blind and Visually Impaired Users
 - Designed a tile-based image editor integrating Stable Diffusion for generating accessible tactile graphics.
 - Conducted three-stage user studies to refine usability and effectiveness for Blind or Visually Impaired (BVI) users.
 
-### IRL Ditto
+### Microsoft Research- Multimodal Agents
 - Created AI agents for open office spaces using computer vision, speech processing, and generative conversational models.
 - Implemented proxemic interaction logic for real-time engagement.
 
