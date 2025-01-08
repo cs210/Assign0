@@ -1,57 +1,57 @@
 # About Me
-Hi there! I'm **Anushikha**, an engineer, entrepreneur, and artist with a passion for building impactful solutions and fostering meaningful connections. I'm currently a Master's student at Stanford, where I explore the intersection of technology, creativity, and community-building.
+Hi there! I'm **Anushikha**, an engineer, entrepreneur, and artist with a passion for solving complex problems and building impactful solutions. With hands-on experience in research, end-to-end product development, and leadership, I aim to combine technical expertise and creative thinking to drive meaningful change.
 
 ---
 
 ## Technical Skills
-- **Programming Languages:** Python, R, JavaScript
-- **Tools & Technologies:** Git, Docker, TensorFlow, PyTorch, SQL, Webflow
-- **Specializations:** Data Analysis, Machine Learning, Product Management, Community Engagement
-- **Software Development:** Full-Stack Web Development, AI/ML Integration
-- **Creative Expertise:** Advanced Visual Art, Digital Design, and Storytelling
+- **Programming Languages:** Python, R, MATLAB
+- **Tools:** Git, Docker
+- **Specializations:** Data Analysis, Optimization, and Computational Modeling
+- **Research Focus:** Materials Science and Algorithm Development
 
 ---
 
 ## Key Projects
 ### 1. **Mochi - Career Companion for Early-Career Women**
-- Built a membership-based platform empowering women in their early careers.
-- Launched web, iOS, and Android apps; scaled to 250 users with a 500-person waitlist.
-- Hosted 15+ events, onboarded 20+ mentors, and managed a growing community of 500+ members.
+- Founded and built **Mochi**, a platform designed to empower early-career women in their professional journeys.
+- Launched a membership-based platform with web, and app.
+- Scaled the platform to 250 active users with a 500-person waitlist, hosting 15+ events and onboarding 20+ mentors.
+- Spearheaded the development of core features, including user profiles, community engagement tools, and event management.
 
-### 2. **AI Career Path Finder**
-- Developed an AI-based tool for personalized career recommendations.
-- Integrated user-specific ML models for skill gap analysis and job matching.
-- Collaborated with a cross-functional team to deploy scalable solutions.
+### 2. **Caltech - Materials Science Research**
+- Conducted research on computational approaches to materials science.
+- Developed models and algorithms for analyzing material properties.
+- Worked in a collaborative environment to advance materials discovery.
 
-### 3. **Artistic Exhibitions and AI-Generated Art**
-- Organized two exhibitions at Stanford showcasing traditional and AI-generated art.
-- Leveraged AI tools to explore the boundaries of human creativity and technology.
+### 3. **JAIST - Research in Computational Modeling**
+- Explored computational modeling techniques in an academic setting.
+- Designed workflows for data-driven analysis.
+- Contributed to research that enhanced understanding in the field.
 
 ### 4. **EdTech Product Development**
-- Youngest Entrepreneur in Residence at an EdTech company in India.
-- Built and launched a competitive learning product, leading to significant user growth and eventual acquisition.
+- Youngest **Entrepreneur in Residence** at an EdTech company in India.
+- Designed and launched an educational product focused on accessibility.
+- Achieved significant user growth through targeted strategies.
 
 ---
 
 ## Professional Experience
-- **Entrepreneur in Residence:** Spearheaded the creation of a new product vertical, attracting thousands of users and contributing to company growth.
-- **Community Builder:** Built a community of 500+ women across the Bay Area and New York through Mochi.
-- **Teaching Assistant:** Supported hands-on, project-based courses at Stanford, focusing on marketing, entrepreneurship, and creativity.
+- **Founder:** Built and scaled **Mochi**, a career platform for women, with a focus on community and product development.
+- **Research Intern:** Conducted computational research at Caltech with a focus on materials science.
+- **Research Assistant:** Supported projects at JAIST involving computational modeling.
+- **Entrepreneur in Residence:** Spearheaded a new product vertical in EdTech, achieving strong user engagement and growth.
 
 ---
 
 ## Hobbies & Interests
-- **Art & Painting:** Over 20 years of experience in creating traditional and digital art; winner of several competitions.
-- **Tennis:** An enthusiastic tennis player and avid sports lover.
-- **Storytelling:** Writing inspiring LinkedIn posts about people doing remarkable things.
+- **Art & Painting:** Over 20 years of experience in traditional and digital art; showcased work at Stanford exhibitions.
+- **Community Engagement:** Building platforms and communities to foster growth and collaboration.
 
 ---
 
 ## Connect With Me
-- [LinkedIn](https://linkedin.com/in/anushikha)  
-- [GitHub](https://github.com/your-handle)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [LinkedIn](https://linkedin.com/in/anushikha)
 
 ---
 
-Let’s work together to build something incredible!
+Let’s work together to create something impactful!
