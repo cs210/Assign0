@@ -1,34 +1,20 @@
+- 👋 Hi, I’m Aylee Wu
+- 👀 Welcome to my page where I share all my exciting coding, engineering, and art projects. 
+- 🌱 I’m currently an Electrical Engineering Major and CS Secondary Major (Minor in Art Practice) @ Stanford!
+- 💞️ I’m looking to share my projects, look for future work, and get involved with the creative communities.
+- 📫 Contact: ayleewu@stanford.edu
+- ⚡ Fun fact: I love carrying this little 33 Ω resistor on me. It was the first resistor I've ever used in lab, and it was one of the most exciting moments of my life.
 
-## Introduction
-In the early stages of your project, you will primarily be using your team's private GitHub repository for knowledge sharing and project management. However, git is fundamentally for software revision control. As your project progresses into the build phase, you should use git and GitHub for this purpose.
+Some of my favorite projects include using Max MSP to create a personal live VJing setup (DJing but with video installations). I was able to perform at CCRMA at Stanford using a keyboard synced to various programs that distorted and altered video, sound, and the live camera. 
 
-git and GitHub are industry standards in software development. It's important to develop proficiency with git as it is a critical tool in the software development community. This assignment aims to help you overcome the learning curve with git.
+<img width="1007" alt="Screenshot 2025-01-08 at 5 04 33 PM" src="https://github.com/user-attachments/assets/8139b1c2-d841-4f35-9856-717e3504551b" />
 
-## Deliverables
+One of my greatest passions is electrical engineering -- especially developing hardware that is "carbon-efficient" and an effective alternative to semiconducting materials for batteries, transistors, and more. I'm interested in carbon nanotube transistor research (CNFETs). I'm part of Stanford Solar Car Project, a student organization aimed to engineering a race car that is solely dependent on solar energy. I've met some of the smartest and kindest engineers, and we spend late nights working on the car and solving real-world problems. 
+<img width="827" alt="Screenshot 2025-01-08 at 5 13 34 PM" src="https://github.com/user-attachments/assets/2f0f1051-f70f-4460-b970-b85f0b740314" />
 
-1. **Create a GitHub Account**
-   - If you did not include a GitHub handle in your CS210 Application, create a GitHub account and send your GitHub handle to the TAs.
+<img width="803" alt="Screenshot 2025-01-08 at 5 13 13 PM" src="https://github.com/user-attachments/assets/0b11dae9-d9f6-46a4-940d-668044342172" />
 
-2. **Setup**
-   - Follow the [setup page](https://docs.github.com/en/get-started/quickstart/set-up-git) and install GitHub command line tools. 
-   - If you’re interested in using GitHub in VScode, check out this [VScode extension](https://vscode.github.com/).
-
-3. **Git Clone**
-   - Clone the project repository: [https://github.com/cs210/Assign0](https://github.com/cs210/Assign0).
-
-4. **Create a Branch**
-   - Create a branch using the naming convention `<your name>-readme`.
-
-5. **Create a README File**
-   - Create a readme file named `README-<your SUNet ID>.md`.
-   - Use [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) to outline your technical skills, previous projects, or any past experiences.
-   - Consider this README as an introduction to your potential teammates! Feel free to include images, links, or additional media.
-
-6. **Create a Pull Request**
-   - Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and add one of the TAs as a reviewer.
-
-7. **Class Resources**
-   - TA IDs and other class resources can be found at [https://github.com/cs210/Home](https://github.com/cs210/Home).
-   - Note: You must be a member of the GitHub CS210 organization and logged into GitHub with the ID you provided to access the Home repository.
-
-**Important Note**: This assignment must be completed to be considered for acceptance into the class.
+<!---
+ayleewu/ayleewu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
