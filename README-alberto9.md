@@ -45,7 +45,7 @@ I'm a coterm at Stanford University! 🌲
 ### Hospital Preparation Game (High School)  
 - Designed and developed a Unity-based game to help children prepare for hospital procedures.  
 - **Purpose:** Combined creativity and empathy in technology to create an engaging way for young patients to understand and navigate medical environments.  
-- **Inspiration:** As someone living with cancer and a spinal cord injury, aimed to reduce fear and uncertainty for children facing hospital treatments.  
+- **Inspiration:** As someone living with spinal cord injury as a result of childhood cancer, aimed to reduce fear and uncertainty for children facing hospital treatments.  
 - **Impact:** Used interactive gameplay to demystify the hospital experience and make it less intimidating for children.  
 
 
