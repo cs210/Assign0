@@ -58,7 +58,7 @@ I'm an international Coterm student working through the CS HCI track. I was born
 <br>*CS 356: Topics in Computer and Network Security*<br>
 <ul>
   <li>Built web scraper to bypass gambling site bot detectors
-  <li>Tuned Ollama for gambling site labaling based on scraped data
+  <li>Tuned Ollama for gambling site labeling based on scraped data
 </ul>
 
 **Plaza** 
