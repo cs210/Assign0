@@ -22,4 +22,5 @@ Hi, I'm Madhuhaas, a junior majoring in Computer Science on the AI track. I am e
 - Built patient-facing UI, speech-to-summary pipeline, chatbot for post-discharge support, and backend logic.
 - Recognized with the Stanford Biodesign NEXT Award.
 
-LinkedIn: [https://www.linkedin.com/in/madhuhaasg/](https://www.linkedin.com/in/madhuhaasg/)/
+Email: maasg@stanford.edu
+LinkedIn: [https://www.linkedin.com/in/madhuhaasg/](https://www.linkedin.com/in/madhuhaasg/)
