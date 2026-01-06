@@ -1,4 +1,4 @@
-Hi, I'm Madhuhaas, a junior majoring in Computer Science on the AI track. I am extremely interested in building user-centered AI products and have experience building fullstack AI applications end-to-end. I look forward to collaborating with teammates who are as passionate as I am about applying AI to address real-world needs.
+Hi, I'm Madhuhaas, a junior majoring in Computer Science on the AI track. I am extremely interested in building user-centered AI products and have experience building fullstack AI applications end-to-end.
 
 ## Technical Skills
 - **Languages**: Python, Java, C++, TypeScript/JavaScript, Swift, SQL
