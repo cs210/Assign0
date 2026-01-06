@@ -1,7 +1,7 @@
 # Hello! My name is Ashley Raigosa
 
 ## About Me
-<img src="images/ashleyraigosa-HEADSHOT.jpg" alt="alt text" width="200">
+<img src="ashleyraigosa-images/ashleyraigosa-HEADSHOT.jpg" alt="alt text" width="200">
 
 I'm a senior in Computer Science on the Systems track and am coterming in Computer Science *also* on the Systems track (couldn't get enough of it). My specialties include embedded systems, low-level programming, high performance computing, and operating systems. I've dealt a lot with releasing software for production, managing databases, and creating user-facing products. I'm excited to meet everyone!
 
@@ -30,5 +30,6 @@ Graphics Skills: Adobe Photoshop, Illustrator, Premiere Pro, After Effects, XD
 ## Funsies
 I love hiking, camping, snowboarding, swing dancing, photography, and recently have gotten into pottery (I have too many mugs now, let me know if you want one). I'm also a big rhythm game fan. My favorite music genres normally fall under "psychedelic rock" and "indie garage rock."
 
-<img src="images/hiking-photo.JPG" alt="alt text" width="275">
-<img src="images/pottery.JPG" alt="alt text" width="250">
+<img src="ashleyraigosa-images/hiking-photo.JPG" alt="alt text" width="275">
+<img src="ashleyraigosa-images/pottery.JPG" alt="alt text" width="250">
+
