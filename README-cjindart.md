@@ -6,11 +6,11 @@
 
  I have a great base knowledge of programming and can efficiently write code in multiple languages:
 
- - ** Python, C, C++, Javascript, React Native, and Flutter
+ - Python, C, C++, Javascript, React Native, and Flutter
 
  I also have lots of experience in frameworks such as, but not limited to:
 
- - ** Git, ReactNative, React, pandas, pytorch, numpy, figma, blender, etc.
+ - Git, ReactNative, React, pandas, pytorch, numpy, figma, blender, etc.
  
   I am absolutely open to learning new frameworks for building software solutions! I have the most experience in front end design and functionality, and have also done some work in the backend with databases and API integration. 
 
