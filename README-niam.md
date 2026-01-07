@@ -41,4 +41,5 @@ CS 149, 155, 255, 144, 107E
 - Front-End / Design
 - Hardware
 - Significant AI Model Creation (vs simpler API Calls)
+- Not the strongest at end-to-end app creation
 - 
